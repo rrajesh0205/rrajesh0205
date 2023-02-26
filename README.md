@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rajesh ramamoorthy
 - 👀 I’m learning python and django
-- 📫 reach me ... r.rajesh@hotmail.ca
+- 📫 reach me ... rajesh.ramamoorthy@outlook.in
 
 <!---
 rrajesh0205/rrajesh0205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

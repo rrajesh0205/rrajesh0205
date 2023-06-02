@@ -1,4 +1,4 @@
-- 👋 Hi, I’m rajesh ramamoorthy
+- 👋 Hi, I’m Rajesh Ramamoorthy
 - 👀 I’m learning python and django
 - 📫 reach me ... rajesh.ramamoorthy@outlook.in
 

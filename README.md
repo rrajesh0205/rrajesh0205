@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajesh Ramamoorthy
-- 👀 I’m learning Python and Django
+- 👀 Love the way how Django works ...
 - 📫 reach me ... rajesh.ramamoorthy@outlook.in
 
 <!---

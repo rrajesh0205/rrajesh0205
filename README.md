@@ -1,6 +1,6 @@
 Hey! Nice to see you.
 
-https://cdn-icons-png.flaticon.com/128/1077/1077114.png I’m Rajesh Ramamoorthy.
+I’m Rajesh Ramamoorthy.
 
 🌱  I’m currently learning Django
 

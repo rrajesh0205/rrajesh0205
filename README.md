@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajesh Ramamoorthy
-- 👀 Love the way how Django works ...
+- 👀 Love the way how Django is programmed to programme ...
 - 📫 reach me ... rajesh.ramamoorthy@outlook.in
 
 <!---

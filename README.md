@@ -1,7 +1,6 @@
 Hi there...
 
 I’m Rajesh Ramamoorthy.
-
 🌱  I’m currently learning Django
 
 💬 reach me ... rajesh.ramamoorthy@outlook.in

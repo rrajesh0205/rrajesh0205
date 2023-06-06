@@ -1,7 +1,7 @@
-- 👋 Hi there...
+- Hi there...
 - I’m Rajesh Ramamoorthy.
-- 👀 Love the way how Django is programmed to programme !
-- 📫 reach me ... rajesh.ramamoorthy@outlook.in
+- Love the way how Django is programmed to programme !
+- reach me ... rajesh.ramamoorthy@outlook.in
 
 
 <!---

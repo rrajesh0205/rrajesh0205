@@ -4,7 +4,7 @@ I’m Rajesh Ramamoorthy.
 
 I’m currently learning Django
 
-💬 reach me ... ramamoorthy.rajesh@hotmail.com
+connect me: ramamoorthy.rajesh@hotmail.com
 
 
 <!---
